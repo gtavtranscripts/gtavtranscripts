@@ -11,32 +11,12 @@
   "navigation": {
     "dropdowns": [
       {
-        "tab": "Home",
+        "dropdown": "Home",
         "groups": [
           {
             "group": "Main",
             "pages": [
               "introduction"
-            ]
-          }
-        ]
-      },
-      {
-        "tab": "API Reference",
-        "groups": [
-          {
-            "group": "API Documentation",
-            "pages": [
-              "api-reference/introduction"
-            ]
-          },
-          {
-            "group": "Endpoint Examples",
-            "pages": [
-              "api-reference/endpoint/get",
-              "api-reference/endpoint/create",
-              "api-reference/endpoint/delete",
-              "api-reference/endpoint/webhook"
             ]
           }
         ]
