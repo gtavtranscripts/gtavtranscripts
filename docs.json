@@ -15,6 +15,7 @@
         "groups": [
           {
             "group": "Main",
+            "icon": "house",
             "pages": [
               "introduction"
             ]
