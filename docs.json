@@ -3,9 +3,9 @@
   "theme": "mint",
   "name": "GTA V Transcripts",
   "colors": {
-    "primary": "#5b8928",
-    "light": "#5b8928",
-    "dark": "#5b8928"
+    "primary": "#669966",
+    "light": "#669966",
+    "dark": "#669966"
   },
   "favicon": "/favicon.svg",
   "navigation": {
