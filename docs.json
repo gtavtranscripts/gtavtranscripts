@@ -14,11 +14,9 @@
         "tab": "Home",
         "groups": [
           {
-            "group": "Get Started",
+            "group": "Main",
             "pages": [
-              "introduction",
-              "quickstart",
-              "development"
+              "introduction"
             ]
           }
         ]
