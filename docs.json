@@ -25,6 +25,15 @@
       {
         "dropdown": "In-Order",
         "icon": "star",
+        "groups": [
+          {
+            "group": "In-Order",
+            "icon": "star",
+            "pages": [
+              "/mission/story/prologue"
+            ]
+          }
+        ]
       }
     ]
   },
