@@ -1,11 +1,11 @@
 {
   "$schema": "https://mintlify.com/docs.json",
   "theme": "mint",
-  "name": "Mint Starter Kit",
+  "name": "GTA V Transcripts",
   "colors": {
-    "primary": "#16A34A",
-    "light": "#07C983",
-    "dark": "#15803D"
+    "primary": "#5b8928",
+    "light": "#5b8928",
+    "dark": "#5b8928"
   },
   "favicon": "/favicon.svg",
   "navigation": {
