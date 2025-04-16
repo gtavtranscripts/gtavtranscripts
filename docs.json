@@ -7,6 +7,11 @@
     "light": "#669966",
     "dark": "#669966"
   },
+  "layout": {
+  "background": {
+    "style": "grid"
+  }
+},
   "style": "color.css",
   "favicon": "/favicon.svg",
   "navigation": {
@@ -31,7 +36,8 @@
             "group": "In-Order",
             "icon": "star",
             "pages": [
-              "/missions/story/prologue"
+              "/missions/story/prologue",
+              "/missions/story/franklinandlamar"
             ]
           }
         ]
