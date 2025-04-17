@@ -13,7 +13,7 @@
   }
 },
   "style": "/color.css",
-  "favicon": "https://media-rockstargames-com.akamaized.net/mfe6/prod/__common/img/4d580d34037dd454c9fa2bd4c02e5d7a.svg",
+  "favicon": "/favicon.svg",
   "navigation": {
     "dropdowns": [
       {
