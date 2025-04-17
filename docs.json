@@ -12,7 +12,7 @@
     "style": "grid"
   }
 },
-  "style": "color.css",
+  "style": "/color.css",
   "favicon": "/favicon.svg",
   "navigation": {
     "dropdowns": [
@@ -37,7 +37,8 @@
             "icon": "star",
             "pages": [
               "/missions/story/prologue",
-              "/missions/story/franklinandlamar"
+              "/missions/story/franklinandlamar",
+              "/missions/story/repossession"
             ]
           }
         ]
